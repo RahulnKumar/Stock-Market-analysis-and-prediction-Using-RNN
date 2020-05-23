@@ -15,3 +15,11 @@ Yahoo finance data is used in this notebook.
 
 ## Model
 Simple RNN using LSTM model
+
+## Contributors  
+- Rahul Kumar, Fares Sayah
+---
+
+ ## License & copyright
+ © Rahul Kumar 2020    
+ Licensed under the [MIT License](LICENSE)
