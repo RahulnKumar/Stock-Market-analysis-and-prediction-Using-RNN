@@ -19,7 +19,7 @@ Simple RNN using LSTM model
 
 ## Contributors  
 - Rahul Kumar, Fares Sayah
----
+
 
  ## License & copyright
  © Rahul Kumar, Fares Sayah 2020    
