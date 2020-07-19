@@ -22,6 +22,6 @@ Simple RNN using LSTM model
 
 
 ## License & copyright
-© 2020 Rahul Kumar, Fares Sayah     
+© 2020 Rahul kumar, Fares Sayah     
 Licensed under the [MIT License](LICENSE)  
 
