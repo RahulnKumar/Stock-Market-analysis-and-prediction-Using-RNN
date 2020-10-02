@@ -1,5 +1,7 @@
 # Stock-Market-analysis-and-prediction
-Reference : https://www.kaggle.com/faressayah/stock-market-analysis-prediction-using-lstm
+Reference : https://www.kaggle.com/faressayah/stock-market-analysis-prediction-using-lstm  
+  
+  
 ![](Assets/stock.JPG)
 ## Dependencies
 * Pandas
@@ -19,10 +21,8 @@ Simple RNN using LSTM model
 
 
 ## Contributors  
-- Rahul Kumar, Fares Sayah
+------------
 
 
-## License & copyright
-© 2020 Rahul kumar, Fares Sayah     
-Licensed under the [MIT License](LICENSE)  
-
+## License & copyright    
+---------------------
