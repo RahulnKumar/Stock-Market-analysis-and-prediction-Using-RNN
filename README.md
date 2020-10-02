@@ -1,4 +1,5 @@
 # Stock-Market-analysis-and-prediction
+Reference : https://www.kaggle.com/faressayah/stock-market-analysis-prediction-using-lstm
 ![](Assets/stock.JPG)
 ## Dependencies
 * Pandas
